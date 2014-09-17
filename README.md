@@ -1,5 +1,5 @@
 #Breast Pump User Data
-This repo has data for use at the Make the Breast Pump Not Suck Hackathon at the MIT Media Lab on Sept 20-21, 2014. 
+This repo has data for use at the [Make the Breast Pump Not Suck Hackathon](http://breastpump.media.mit.edu) at the MIT Media Lab on Sept 20-21, 2014. 
 
 ## Breast Pump Reviews
 In the directory /pumpreviews/. This dataset is generously provided by Weespring. There are three CSVs in this data set.
