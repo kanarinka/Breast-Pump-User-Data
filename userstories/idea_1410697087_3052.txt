@@ -1,0 +1,3 @@
+As you consider performance benchmarks, what about the relationship between setup/breakdown/cleaning time (A) and actual pump time (B)? Set a target for A as a percentage of B? Some of that is psychological - It bugs me that I spend nearly as much time with A as I do with B. But it's also practical, with a toddler and newborn around.
+Reducing B is also a goal, of course, but that can only go so low.
+Unlike

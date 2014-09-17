@@ -1,0 +1,2 @@
+A timer.  Not only that keeps track of how long I have pumped
+ but also will shut off after a specified time.

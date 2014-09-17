@@ -1,0 +1,24 @@
+A breast pump that uses a motor (linear or other TBD) to quietly create the complex vacuum and cycle patterns of a nursing baby. A control system will alter these patterns and strengths based upon milk output and proven nursing patterns to speed up pumping. The overall time dedicated to breast pumping will be further reduced because the pump will require only minimal assembly and use disposables to reduce time spent cleaning. It will be designed so that mothers will not need to hold onto the pump during use and without the hoses that are currently complicating setup and use. The pump will be smaller, require less power, will function to same specs whether battery or electrically powered, and will be quiet to facilitate mobility and discreet pumping. The pump will be high quality and will withstand
+regular use without need for maintenance.
+
+Current breast pumps are difficult to use (most require at least three hands to use), time consuming, and humiliating. The pump I describe will focus on ease of use, speed of the entire process (including set-up and cleaning), and portability. 
+
+Potential unique aspects:
+-Real time feedback and adjustment of following based upon milk flow and desired “comfort index”
+-Pump both breasts to a single bottle
+-No tubes, putting the motor in between the flanges
+-Disposable flanges
+
+Specific embodiments:
+-Prevent milk from reaching the pumping mechanism
+-Soft flange design (nipple stimulation, feels like flesh, asymmetric)
+-Hands free operation
+
+Key advantages include:
+-More usable: Better system design for non-awkward, portable use – no hoses, hands free operation, reliable, light
+-Faster pumping: The system will require less assembly reducing time and stress (helps with milk expression). There is significant research that suggests that the ability to control the vacuum pattern and strength in real-time using a closed-loop control system will reduce pump time.  Finally the use of disposables will eliminate the need to clean the flanges, receptacles, valves and hoses.
+-Portable/More discreet: Smaller, lighter, longer battery life, sleek (doesn’t look like a breast pump) and quiet
+
+Brian Mulcahey
+Director, New Business Product Marketing
+Bose Corporation

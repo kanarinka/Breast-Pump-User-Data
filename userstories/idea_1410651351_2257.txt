@@ -1,0 +1,3 @@
+Does anyone know where I can find a programable relief valve?
+Since I have been disassembling older pumps and trying to come up with better designs or even repairs for that matter. 
+This valve would help in my goal to make a centrifugal vacuum pump FEEL like a reciprocating pump (More like a baby nursing) in the system that I think would be great for our Open Source BreastPump.
