@@ -2,7 +2,7 @@
 This repo has data for use at the [Make the Breast Pump Not Suck Hackathon](http://breastpump.media.mit.edu) at the MIT Media Lab on Sept 20-21, 2014. 
 
 ##What we need
-It would be great to see some visualizations that help us make sense of a large number of user ideas and cluster them according to features or pain points. It would also be great to see visualizations that help us remember how there are individuals - moms, dads and babies - behind these stories. They aren't just users but they are trying to help sustain a human life in the best way they can and often facing numerous challenges.
+It would be great to see some visualizations that help us make sense of a large number of user ideas and cluster them according to features or pain points. It would also be great to see visualizations that help us remember how there are individuals - moms, dads and babies - behind these stories. They are not just users - they are trying to help sustain a human life in the best way they can and often facing numerous challenges.
 
 The data is comprised of:
 
