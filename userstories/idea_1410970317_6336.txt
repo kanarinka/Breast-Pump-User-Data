@@ -1,0 +1,3 @@
+- A way to know how many oz/minute you're getting so you can track supply over time.
+- A 'history' function that could tell you supply information that is stored so you can see if your supply is steady, increasing, or decreasing over the long term.
+- Better integration into purses/tote bags, so the working mom doesn't have to lug around something ugly or too cumbersome

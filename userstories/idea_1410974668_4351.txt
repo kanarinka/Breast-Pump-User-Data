@@ -1,0 +1,1 @@
+Design a pump that will allow you to pump directly into the storage bag, which can then allow for a nipple to be directly attached to the bag to feed. With either a disposable or reusable bags. 

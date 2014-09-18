@@ -1,0 +1,1 @@
+Have the pump be smarter to know how much milk there is and how much pressure and suction to apply to get it out. And then shut off when it has gotten x% of milk out. Also, be able to tell you how much longer you need to pump - so like a progress bar for how much you have gotten, how much more there is, and how much longer it will take. 

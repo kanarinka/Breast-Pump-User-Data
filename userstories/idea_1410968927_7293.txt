@@ -1,0 +1,8 @@
+- make it possible to pump while laying down
+- change the shape and material of the flanges, hard plastic hurts
+- more variation on speed, suction
+- allow for different speed and suction on each side
+- bulit usb charger
+- quiet pump (least of my concerns but i figured i would mention it)
+
+Thank you for goving me the opportunity to give my ideas. 
