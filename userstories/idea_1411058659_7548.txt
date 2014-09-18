@@ -1,0 +1,3 @@
+Make the pump able to connect to a smartphone. User should then be able to log sessions and manually enter information about each session, such as notes and how much milk was extracted from each side.
+
+A bonus would be integration with other popular breastfeeding apps.

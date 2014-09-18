@@ -1,0 +1,2 @@
+Listening to Brian Lehrer show in NYC on this topic. What I heard often were complaints about pump noise. 
+Suggestion: use a voice coil mechanism to actuate the pump. Set amplitude such that mechanical stops are not hit. Only noise that should be left would be check valve noise. Proof of concept could be made by taking an old bass woofer and using its coil to replace motor in diaphram pump.
