@@ -7,7 +7,7 @@ It would be great to see some visualizations that help us make sense of a large 
 The data is comprised of:
 
 ## Breast Pump Reviews
-In the directory /pumpreviews/. This dataset is generously provided by weeSpring. There are three CSVs in this data set.
+In the directory /pumpreviews/. This dataset is generously provided by weeSpring (a Techstars-backed start up that helps new and expecting parents collect advice from their friends about what they need for their baby). There are three CSVs in this data set.
 
 ## User submitted stories and ideas 
 Hundreds of users have submitted ideas for how to improve the breast pump. At the moment we have a subset of these uploaded in the repo. We hope to have all the ideas in the repo by the evening of Friday, Sept 19th. Some of the ideas are short and singular but other ideas are long, personal stories. All are in the form of unstructured text files. Each user submission is a single .txt file.
