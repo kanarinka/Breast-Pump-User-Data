@@ -1,0 +1,14 @@
+Hey everyone,
+Being a veteran with experience in mechanical pumps of MANY designs, and the husband of a IBCLC and Postpardum DOULA, I have been going over the idea on how to make breast pumps better.
+I am currently working on a design that YOUR wealth of knowledge would help shed some light on how to go about making an open-source breast pump.
+
+Speaking of just the pump and the motor, I have found that manufacturing has gotten away from quality parts. And using cheaper pieces in both the pump and motor, they DO NOT last very long.
+Sad, considering how much people pay for them!
+
+My idea to to make a centrifugal/vane type of vacuum pump and have it simulate the action of a reciprocating vacuum pump. The centrifugal pump has less moving parts and will last longer on a small charge. Making it lighter to be carried around, and possibly with a battery pack, even portable to pump with.
+The problem I am having is trying to figure out a programmable or micro-switch  operated relief valve that will give the stimulation required to enduce let-down and flow. 
+This is one reason my all pumps have been using a reciprocating idea, because it is the closest mechanical interpretation of a baby nursing. 
+Also I would still have manual adjustments for speed and strength. As I have seen on so many current pumps. So the mother could make manual changes to make it better for her.
+
+I would love to hear from you. Either positive or negative comments are welcome. 
+Since I am just trying to do what I can to help my wife and the MANY nursing Moms I know. 

@@ -1,0 +1,14 @@
+Hello
+ 
+First I would like to congratulate you on your choice of project to tackle - success in your endeavour here will have an enormous impact in public health.  You should be proud!
+ 
+I'm sure you have an advisory board and have a set of ideas on how to go forward.  As a mother of two young girls, both of whom I nursed while working a fairly demanding and unpredictable job - here is my perspective on how to improve a "breast pump":
+ 
+Object is to efficiently remove milk from the breast and maintain supply.  It must fit cohesively with some sort of modular breast milk storage and feeding solution.  It must be small, quiet, easy to clean and easy to use.  No critical parts that, if forgotten by a sleep-deprived new mother, would preclude pumping for that day!
+ 
+My idea would be for a Wearable, continuous breastpump that dumps into a small, flat resevoir (worn at the waist, stomach or back) that can be emptied at several points during the day into a more secure, refrigerated storage area.  Ideally the pump could be worn for 4-8 hours.  Would be nice if you could design different attachments that could also allow for a higher-suction "bolus" pumping session.
+ 
+Advantage:  Holy grail of breastfeeding would be achieved - supply will never be a problem.
+Problems to solve: must be quiet, small, not noticeable under clothes (maybe it requires a special bra - make us look good!) and must have a resevoir that is wearable, spillproof, sterile and reusable.
+ 
+I will be supporting your hackathon as well.  I can't wait to see what you devise.

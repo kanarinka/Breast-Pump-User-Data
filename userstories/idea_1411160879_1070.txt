@@ -1,0 +1,17 @@
+Hi,
+ 
+I live in Quincy and work in Boston at the State House and I'm a mother of two with two more babies (twin girls) due to arrive in August.
+ 
+I have used a breastpump upon returning to work for both my daughter in 2010-2011 and my son in 2012.  I will also be using the breastpump for my twins, probably starting sometime in October 2014.  I cried the first time I used my breastpump (Medela brand) because it was so belittling and noisy and cow-like.  Like probably all mothers, I was very understanding of the benefits of pumping, but I hated every minute of doing it. 
+ 
+The idea of the hackathon really resonated with me and I'm so excited that other people have the same desire to improve upon such a lackluster piece of technology that most every working mom is forced to use.  I'm not an engineer or really even a very technical person in terms of assembly, but I'm confident that I could be an asset to the cause.
+ 
+I posted a blog post back in April about my experience with breastfeeding and pumping and how living in Dubai, UAE for six months in 2010 was an eye-opener in terms of where the United States was lagging behind in helping mothers.  Obviousl,y I wrote all of this prior to hearing about the hackathon.  It's available here:
+ 
+http://latchontolatch.blogspot.com/2014/04/about-latch.html
+ 
+In the interest of full disclosure, and as you'll read in the blog post, I'm in the process of working to redevelop the breastpump carrying bag (the actual physical bag used to transport the pump back and forth to work), because I think there's tremendous room for improvement in that area as well.  The Medela bag that I have shows dirt and the straps are too wide to fit well on the shoulders without slipping off, especially if you're transporting the bag in the winter months while wearing a jacket.  The pump itself is heavy, but the bag doesn't allow much room for anything else to be carried inside the bag except the pump and its parts, which means moms also use a handbag to carry their personal belongings in addition to their pump bag, which is cumbersome and seems to not make very much sense. 
+ 
+I wrote more about the need for a redesigned bag in another post that I've cut/pasted below.  I have a working prototype that I am still perfecting, so there is no actual product yet.  I'm not out to market my bag, I honestly just want to help make the breast pump better and the experience better as a whole.  
+ 
+If I can be of help in any way, please email me.  I would love to be included in the fall hackathon and to assist wherever possible.  Thanks so much for your work and for your consideration!

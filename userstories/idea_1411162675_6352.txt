@@ -1,0 +1,24 @@
+Hi there -
+I'll unfortunately not be able to join the hackathon next weekend (as I'll be on a plane from Mozambique...with my breast pump...), but I had a few ideas/thoughts that might be of interest. They include:
+
+The physiological:
+When babies nurse, they aren't really "sucking" so much as using a motion with their mouths the way we do with our hands when we milk a cow. This doesn't actually hurt at all, is efficient at draining the breast, and doesn't "wear out" your nipples. In contrast, a breast pump relies on suction, which is less efficient (and therefore can be detrimental to milk supply), and less comfortable. Creating a breast pump that uses a massaging motion and slight negative pressure rather than relying on suction might solve both those issues. 
+
+The convenience factor:
+I was lucky enough to get my sister's spare Medela Freestyle, the lightest, quietest, most compact pump on the market. I've used it on trains, on buses, in the car, and will use it on a plane and--on battery power--in a remote village in Mozambique (where part of me feels like it would be simpler to find someone who's willing to let me just nurse her baby, if only there was still a culture of wet-nursing). But despite having a "convenient" pump, using it isn't convenient at all, particularly if you want to store the milk. This is because:
+- You have to somehow put it on (even with a pumping bra, this is a challenge in a non-private space)
+- You must sit up very straight, or risk milk leaking out the back of the piece that connects the flanges to the bottles
+- Once you're done, you need to find a stable place to set the bottles - and somehow hold them, because when the flanges are attached, they are top-heavy, and will spill if knocked over. But you can't put the flanges down, because then you'll have to wash them (if, for example, you're putting them on the tray table of an airplane seat). 
+- You have to bring a cooler, or somewhere else to store milk, and a way to keep the breast pump parts either refrigerated or cleaned. 
+- If you're in public, you somehow need to do all of this while underneath a blanket of some sort. Maybe we need a nursing cover with arms? (I'm imagining a hilarious snuggie here).  
+All this, if you can actually get over....
+
+The social factors!
+I've been pleasantly surprised by the lack of judgment in all the aforementioned mobile pumping experiences...the middle-aged accountant next to me on an Amtrak was a little nonplussed, but kept his composure pretty well. Hah. That said, I wouldn't have pumped in such public areas if there was an option to do it privately, because it's just not comfortable given our social norms. 
+
+Which brings me to the heart of it all: 
+Pumping is a great *secondary* solution, and while I'm all in favor of giving women access to spaces to pump, and making pumping itself more comfortable, I think we have to have these discussions in the context of WHY women need to pump at all*. The answer to that is: pitiful maternity leave policies. A truly mother- and baby-friendly solution to this would be to put pumps where they belong: in NICUs, and to support other special needs cases. 
+
+Whew. As you may have suspected, pumping touches a nerve for a lot of women - myself included! If there are ever any follow-up sessions from the Hackathon, I'd love to find a way to participate. Good luck, and may the suction be with you.
+
+*there are, of course, other reasons - I had a preemie who couldn't breastfeed at first, and the pump was invaluable then. But for the 9 months I pumped while working? Not so great.
