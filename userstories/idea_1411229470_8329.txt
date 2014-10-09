@@ -1,0 +1,4 @@
+Slimmer design to allow multitasking while
+Pumping. 
+
+Quiet

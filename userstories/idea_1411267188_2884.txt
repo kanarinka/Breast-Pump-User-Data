@@ -1,0 +1,1 @@
+An indicator to tell you if you're pump isn't performing optimally (ie a membrane needs to be replaced,  something isn't assembled properly, a motor issue)
