@@ -8,8 +8,8 @@ df=df[df$category!="",]
 df = ddply(df, 'category', function(x) c(freq=sum(x$freq), separate_trigrams=nrow(x)))
 df=df[df$category!="",] 
 
-# Possibly remove "IWOULDLOVE"
-#df=df[df$category!="IWOULDLOVE",] 
+# Temporarily remove "IWOULDLOVE", "MAKESMEFEEL","TITLE"
+df=df[df$category!="IWOULDLOVE" & df$category!="MAKESMEFEEL" & df$category!="TITLE",] 
 
 #order by frequency
 df[ order(df$freq), ]
@@ -17,4 +17,4 @@ df[ order(df$freq), ]
 #plot to verify we did it right
 p <- ggplot(df, aes(y=freq,fill=category))
 df$category <- reorder(df$category, -df$freq)
-p + ylab("Frequency of Mention")+xlab("")+geom_bar(aes(x=category), data=df, stat="identity") +theme(axis.text=element_text(angle=0)) + coord_flip()
+p + ylab("Frequency of Mention")+xlab("")+geom_bar(aes(x=category), data=df, stat="identity") +theme(legend.position="none",axis.text=element_text(angle=0)) + coord_flip()
