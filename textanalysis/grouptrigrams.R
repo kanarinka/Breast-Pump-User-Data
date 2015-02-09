@@ -17,4 +17,4 @@ df[ order(df$freq), ]
 #plot to verify we did it right
 p <- ggplot(df, aes(y=freq,fill=category))
 df$category <- reorder(df$category, df$freq)
-p + ylab("Frequency of Mention")+xlab("")+geom_bar(aes(x=category), data=df, stat="identity") +theme(legend.position="none",axis.text=element_text(angle=0),axis.text.x = element_text(colour="gray13"), axis.text.y = element_text(colour="gray13")) + coord_flip()
+p + ggtitle("What Women Want From Their Breast Pumps") + ylab("Frequency of Mention")+xlab("")+geom_bar(aes(x=category), data=df, stat="identity") +theme(legend.position="none",axis.text=element_text(angle=0),axis.text.x = element_text(colour="gray13"), axis.text.y = element_text(colour="gray13")) + coord_flip()
